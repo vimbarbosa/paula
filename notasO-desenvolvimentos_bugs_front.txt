@@ -1,0 +1,3 @@
+1 - Fator de conversão quando carrega na tela com as datas fixing nulas, é porque será carregado como off
+2 - Quando o produto for bimestral e as datas de permancencia não coinciderem, exibir alerta
+3 - Teste instários.
